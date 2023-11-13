@@ -100,9 +100,9 @@ RFM (Recency, Frequency, Monetary) analysis is a customer segmentation technique
 | 10             | 1480.23                  | 0.380             |
 
 **Graphs:**
-1. Placeholder for Elbow Method graph
+- **Elbow Method graph**
 ![Elbow Method](./screenshots/elbow_method.png)
-2. Placeholder for Silhouette Score graph
+- **Silhouette Score graph**
 ![Silhouette Score](./screenshots/silhouette_score.png)
 
 ### DBSCAN Model Metrics
@@ -116,7 +116,7 @@ RFM (Recency, Frequency, Monetary) analysis is a customer segmentation technique
 ## Segmentation Result
 
 - **3D Graph of KMeans Segmentation into 2 Clusters:**
-![3D Graph of Clusters(./screenshots/Final_seg.png)
+![Cluster Segmented 3D Graph](./screenshots/final_seg.png)
 
 
 ## Final Inference
